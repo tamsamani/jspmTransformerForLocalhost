@@ -1,13 +1,13 @@
 {
-  "name": "violetreddecentmaintenance",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "jspm-generate-corrector",
+  "version": "0.1.0",
+  "description": "correct generated importsmap",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "tamsamani <tamsmoha@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.2.3"
