@@ -1,0 +1,50 @@
+{
+   "imports": {
+      "@mantine/core": "https://ga.system.jspm.io/npm:@mantine/core@4.1.0/cjs/index.js",
+      "@mantine/hooks": "https://ga.system.jspm.io/npm:@mantine/hooks@4.1.0/cjs/index.js",
+      "@radix-ui/react-context": "https://cdn.jsdelivr.net/npm/@radix-ui/react-context/dist/index.module.js",
+      "react": "https://ga.system.jspm.io/npm:react@17.0.2/index.js",
+      "react-dom": "https://ga.system.jspm.io/npm:react-dom@17.0.2/index.js",
+      "__bundler__": "./bundler.js"
+   },
+   "scopes": {
+      "https://ga.system.jspm.io/": {
+         "@babel/runtime/helpers/extends": "https://ga.system.jspm.io/npm:@babel/runtime@7.17.8/helpers/extends.js",
+         "@babel/runtime/helpers/objectWithoutPropertiesLoose": "https://ga.system.jspm.io/npm:@babel/runtime@7.17.8/helpers/objectWithoutPropertiesLoose.js",
+         "@emotion/cache": "https://ga.system.jspm.io/npm:@emotion/cache@11.7.1/dist/emotion-cache.browser.cjs.js",
+         "@emotion/hash": "https://ga.system.jspm.io/npm:@emotion/hash@0.8.0/dist/hash.browser.cjs.js",
+         "@emotion/memoize": "https://ga.system.jspm.io/npm:@emotion/memoize@0.7.5/dist/emotion-memoize.browser.cjs.js",
+         "@emotion/react": "https://ga.system.jspm.io/npm:@emotion/react@11.8.2/dist/emotion-react.browser.cjs.js",
+         "@emotion/serialize": "https://ga.system.jspm.io/npm:@emotion/serialize@1.0.2/dist/emotion-serialize.browser.cjs.js",
+         "@emotion/sheet": "https://ga.system.jspm.io/npm:@emotion/sheet@1.1.0/dist/emotion-sheet.browser.cjs.js",
+         "@emotion/unitless": "https://ga.system.jspm.io/npm:@emotion/unitless@0.7.5/dist/unitless.browser.cjs.js",
+         "@emotion/utils": "https://ga.system.jspm.io/npm:@emotion/utils@1.1.0/dist/emotion-utils.browser.cjs.js",
+         "@emotion/weak-memoize": "https://ga.system.jspm.io/npm:@emotion/weak-memoize@0.2.5/dist/weak-memoize.browser.cjs.js",
+         "@mantine/styles": "https://ga.system.jspm.io/npm:@mantine/styles@4.1.0/cjs/index.js",
+         "@popperjs/core": "https://ga.system.jspm.io/npm:@popperjs/core@2.11.4/dist/cjs/popper.js",
+         "@radix-ui/number": "https://ga.system.jspm.io/npm:@radix-ui/number@0.1.0/dist/index.js",
+         "@radix-ui/primitive": "https://ga.system.jspm.io/npm:@radix-ui/primitive@0.1.0/dist/index.js",
+         "@radix-ui/react-compose-refs": "https://ga.system.jspm.io/npm:@radix-ui/react-compose-refs@0.1.0/dist/index.js",
+         "@radix-ui/react-presence": "https://ga.system.jspm.io/npm:@radix-ui/react-presence@0.1.2/dist/index.js",
+         "@radix-ui/react-primitive": "https://ga.system.jspm.io/npm:@radix-ui/react-primitive@0.1.4/dist/index.js",
+         "@radix-ui/react-scroll-area": "https://ga.system.jspm.io/npm:@radix-ui/react-scroll-area@0.1.4/dist/index.js",
+         "@radix-ui/react-slot": "https://ga.system.jspm.io/npm:@radix-ui/react-slot@0.1.2/dist/index.js",
+         "@radix-ui/react-use-callback-ref": "https://ga.system.jspm.io/npm:@radix-ui/react-use-callback-ref@0.1.0/dist/index.js",
+         "@radix-ui/react-use-direction": "https://ga.system.jspm.io/npm:@radix-ui/react-use-direction@0.1.0/dist/index.js",
+         "@radix-ui/react-use-layout-effect": "https://ga.system.jspm.io/npm:@radix-ui/react-use-layout-effect@0.1.0/dist/index.js",
+         "clsx": "https://ga.system.jspm.io/npm:clsx@1.1.1/dist/clsx.js",
+         "hoist-non-react-statics": "https://ga.system.jspm.io/npm:hoist-non-react-statics@3.3.2/dist/hoist-non-react-statics.cjs.js",
+         "object-assign": "https://ga.system.jspm.io/npm:object-assign@4.1.1/index.js",
+         "react-fast-compare": "https://ga.system.jspm.io/npm:react-fast-compare@3.2.0/index.js",
+         "react-is": "https://ga.system.jspm.io/npm:react-is@16.13.1/index.js",
+         "react-popper": "https://ga.system.jspm.io/npm:react-popper@2.2.5/lib/cjs/index.js",
+         "react-textarea-autosize": "https://ga.system.jspm.io/npm:react-textarea-autosize@8.3.3/dist/react-textarea-autosize.browser.cjs.js",
+         "scheduler": "https://ga.system.jspm.io/npm:scheduler@0.20.2/index.js",
+         "stylis": "https://ga.system.jspm.io/npm:stylis@4.0.13/dist/umd/stylis.js",
+         "use-composed-ref": "https://ga.system.jspm.io/npm:use-composed-ref@1.2.1/dist/use-composed-ref.cjs.js",
+         "use-isomorphic-layout-effect": "https://ga.system.jspm.io/npm:use-isomorphic-layout-effect@1.1.1/dist/use-isomorphic-layout-effect.browser.cjs.js",
+         "use-latest": "https://ga.system.jspm.io/npm:use-latest@1.2.0/dist/use-latest.cjs.js",
+         "warning": "https://ga.system.jspm.io/npm:warning@4.0.3/warning.js"
+      }
+   }
+}
